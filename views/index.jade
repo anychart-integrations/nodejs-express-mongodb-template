@@ -4,8 +4,6 @@ block content
   div(id="container")
   script.
     anychart.onDocumentReady(function () {
-      var chart = anychart.pie(!{chartData});
-      chart.title("#{chartTitle}");
-      chart.container("container");
+      var chart = anychart.fromJson(!{chartData});
       chart.draw();
     });
