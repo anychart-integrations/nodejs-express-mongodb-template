@@ -85,7 +85,8 @@ jnodejs-express-mongodb-template/
 Platform/Language - [NodeJS](https://nodejs.org/en/)<br />
 Database - [MongoDB](https://www.mongodb.com/)<br />
 Web framework - [Express](http://expressjs.com/)<br />
-Build tool - [npm](https://www.npmjs.com/)
+Build tool - [npm](https://www.npmjs.com/)<br />
+Template - [Jade](https://naltatis.github.io/jade-syntax-docs/)<br />
 
 ## Further Learning
 * [Documentation](https://docs.anychart.com)
