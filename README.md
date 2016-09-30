@@ -73,7 +73,7 @@ jnodejs-express-mongodb-template/
     views/
         error.jade  # template for errors
         index.jade  # template for main content
-        layout.javd # template for base layout
+        layout.jade # template for base layout
     app.js      # main js file
     database_backup.js  # backup for MongoDB
     package.json    # project settings
