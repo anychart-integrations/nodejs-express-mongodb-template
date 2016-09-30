@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  div(id="container")
+  script.
+    anychart.onDocumentReady(function () {
+      var chart = anychart.pie(!{chartData});
+      chart.title("#{chartTitle}");
+      chart.container("container");
+      chart.draw();
+    });
