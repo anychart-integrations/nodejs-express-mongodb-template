@@ -1,5 +1,6 @@
-# AnyChart NodeJS demo example
-### Overview
+[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
+NodeJS basic template
+=========================
 
 This example shows how to run Anychart library with NodeJS using Express, Jade and MongoDB.
 
@@ -29,7 +30,7 @@ To start this example run commands listed below.
 Clone the repository from github.com to your workspace folder:
 
 ```
-$ git clone git@github.com:AnyChart/nodejs-express-mongodb-template.git
+$ git clone git@github.com:anychart-integrations/nodejs-express-mongodb-template.git
 ```
 
 Navigate to the repository folder:
@@ -93,3 +94,6 @@ Template - [Jade](https://naltatis.github.io/jade-syntax-docs/)<br />
 * [JavaScript API Reference](https://api.anychart.com)
 * [Code Playground](https://playground.anychart.com)
 * [Technical Support](https://anychart.com/support)
+
+## License
+[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/nodejs-express-mongodb-template/blob/master/LICENSE).
