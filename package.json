@@ -1,10 +1,18 @@
 {
-  "name": "first-app",
+  "name": "nodejs-express-mongodb-template",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
+  "keywords": [
+    "AnyChart",
+    "javascript",
+    "mongo",
+    "express",
+    "template"
+  ],
+  "author": "AnyChart",
   "dependencies": {
     "body-parser": "~1.15.1",
     "cookie-parser": "~1.4.3",
