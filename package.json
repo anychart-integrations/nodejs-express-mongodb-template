@@ -1,6 +1,7 @@
 {
   "name": "nodejs-express-mongodb-template",
   "version": "0.0.0",
+  "description": "NodeJS Anychart library usage template",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
