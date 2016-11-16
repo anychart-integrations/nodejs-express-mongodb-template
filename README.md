@@ -18,6 +18,11 @@ To check MongoDB status type:
 $ service mongod status
 mongod start/running, process 9559 # sample output
 ```
+or
+```
+$ ps -ef | grep mongod | grep -v grep
+mongodb   1085     1  0 09:51 ?        00:00:52 /usr/bin/mongod --config /etc/mongod.conf # sample output
+```
 
 npm package manager, if not please checkout https://www.npmjs.com/
 To check your npm installation, run following command in command line:
