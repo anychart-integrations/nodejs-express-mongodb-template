@@ -6,7 +6,7 @@ This example shows how to run Anychart library with NodeJS using Express, Jade a
 ### Running
 To use this sample you must have:
 
-MongoDB installed and running, if not please checkout https://docs.mongodb.com/manual/installation/
+MongoDB installed and running, if not please checkout [MongoDb installation guide](https://docs.mongodb.com/manual/installation/).
 To check your MongoDB installation, run following command in command line:
 ```
 $ mongod -version
@@ -23,7 +23,7 @@ $ ps -ef | grep mongod | grep -v grep
 mongodb   1085     1  0 09:51 ?        00:00:52 /usr/bin/mongod --config /etc/mongod.conf # sample output
 ```
 
-npm package manager, if not please checkout https://www.npmjs.com/
+npm package manager, if not please checkout [official npm site](https://www.npmjs.com/).
 To check your npm installation, run following command in command line:
 ```
 $ npm -v
